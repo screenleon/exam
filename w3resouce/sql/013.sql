@@ -1,0 +1,1 @@
+SELECT `YEAR`, `SUBJECT`, `WINNER` FROM `w3resource`.`nobel_win` WHERE `YEAR`=1971 AND `SUBJECT`='Literature';

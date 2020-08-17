@@ -1,0 +1,1 @@
+SELECT `YEAR`, `SUBJECT`, `WINNER`, `COUNTRY` FROM `w3resource`.`nobel_win` WHERE `YEAR` >= 1965 AND `YEAR` <= 1975;

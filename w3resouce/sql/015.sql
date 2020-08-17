@@ -1,0 +1,1 @@
+SELECT `YEAR`, `SUBJECT` FROM `w3resource`.`nobel_win` WHERE `SUBJECT`='Physics' AND `YEAR`>1950;

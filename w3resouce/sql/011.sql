@@ -1,0 +1,1 @@
+SELECT `ord_no`, `purch_amt` FROM `w3resource`.`orders` WHERE `salesman_id`=1 ORDER BY `ord_date` ASC;

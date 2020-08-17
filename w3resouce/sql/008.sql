@@ -1,0 +1,1 @@
+SELECT DISTINCT salesman_id from `w3resource`.`orders`;

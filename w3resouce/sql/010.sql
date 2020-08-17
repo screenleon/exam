@@ -1,0 +1,1 @@
+SELECT * FROM `w3resource`.`customer` WHERE `grade`=200;

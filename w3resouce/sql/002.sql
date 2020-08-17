@@ -1,0 +1,1 @@
+SELECT "This is a SQL Exercise, Practice and Solution";

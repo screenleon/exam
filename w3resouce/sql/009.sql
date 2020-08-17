@@ -1,0 +1,1 @@
+SELECT `name`, `city` FROM `w3resource`.`salesman` WHERE `city`='Paris';

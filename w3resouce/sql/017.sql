@@ -1,0 +1,1 @@
+SELECT * FROM `w3resource`.`nobel_win` WHERE `YEAR`>1972 AND `WINNER` IN ('Menachem Begin', 'Yitzhak Rabin');
